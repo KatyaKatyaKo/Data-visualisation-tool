@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="270" height="600.0">
+<rect width="270" height="600.0" x="0" y="0" fill="grey"/>
+<line x1="10" y1="410" x2="172" y2="410" stroke="black" stroke-width="4"/>
+<line x1="8" y1="412" x2="8" y2="5" stroke="black" stroke-width="4"/>
+<line x1="10" y1="310" x2="182" y2="310" stroke="darkgrey" stroke-width="1"/>
+<text x="171" y="322" font-size="10" style="text-anchor:middle;" fill="darkgrey">100</text>
+<line x1="10" y1="210" x2="182" y2="210" stroke="darkgrey" stroke-width="1"/>
+<text x="171" y="222" font-size="10" style="text-anchor:middle;" fill="darkgrey">200</text>
+<line x1="10" y1="110" x2="182" y2="110" stroke="darkgrey" stroke-width="1"/>
+<text x="171" y="122" font-size="10" style="text-anchor:middle;" fill="darkgrey">300</text>
+<line x1="10" y1="10" x2="182" y2="10" stroke="darkgrey" stroke-width="1"/>
+<text x="171" y="22" font-size="10" style="text-anchor:middle;" fill="darkgrey">400</text>null
+<line x1="50" y1="200" x2="70" y2="280" stroke="blue" stroke-width="1"/>
+<line x1="70" y1="280" x2="90" y2="389" stroke="blue" stroke-width="1"/>
+<line x1="90" y1="389" x2="110" y2="381" stroke="blue" stroke-width="1"/>
+<line x1="110" y1="381" x2="130" y2="377" stroke="blue" stroke-width="1"/>null
+<rect width="10" height="10" x="190" y="30" fill="blue"/>
+<text x="220" y="37.5" font-size="10" style="text-anchor:middle;">chaussure</text>null
+<text x="50" y="430" font-size="9">1990</text>
+<text x="70" y="430" font-size="9">2001</text>
+<text x="90" y="430" font-size="9">2009</text>
+<text x="110" y="430" font-size="9">2017</text>
+<text x="130" y="430" font-size="9">2019</text>
+</svg>
